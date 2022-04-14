@@ -5,7 +5,8 @@ Modified: 2022-04
 Demo of Reading System Timer Registers on RPi4/CM4 (BCM2711).
 
 ## Quickstart
-Build the demo for BCM2711 SoCs. This software should work with 
+Build the demo for BCM2711 SoCs. This software should work with all BCM2711 CPUs including, but not limited to, the RPi4 and CM4.
+
 ```bash
 make
 ```
